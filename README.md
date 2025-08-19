@@ -53,4 +53,3 @@ Yash Gour - Embedded Systems Enthusiast
 
 ---
 
-Feel free to explore, modify, and use this code for learning or your own projects!
