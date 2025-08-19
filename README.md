@@ -43,11 +43,9 @@ User input is taken via a **4x4 matrix keypad** connected through GPIO pins, and
 
 - The code uses blocking polling for I2C and keypad scanning for simplicity.
 - Timing and debounce delays are implemented with simple software loops.
-- Adapt GPIO pin assignments as needed for your hardware setup.
 
-## License
 
-This project is open-source and available under the MIT License.
+
 
 ## Author
 
